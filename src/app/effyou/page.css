@@ -1,0 +1,20 @@
+.bg-image {
+    background-image: url('../../../public/image.png');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+.b {
+    background-color: #ff7eb3;
+      color: white;
+      border: none;
+      border-radius: 25px;
+      padding: 10px 20px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
