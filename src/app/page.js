@@ -10,7 +10,9 @@ export default function Page() {
     <div
       className="bg-image"
     >
+      <div>
       <Image src={img}></Image>
+      </div>
       <div>
         <a className="b" href="/effyou">
             Click me!!! 🥰🥰
